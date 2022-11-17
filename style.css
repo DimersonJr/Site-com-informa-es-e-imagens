@@ -1,0 +1,69 @@
+h1 {
+    color: green;
+    font-size: 70px;
+    background-color: white;
+    margin: 0px;
+    text-align: center;
+    padding: 10px 0px;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    background-color: white;
+    border: 2px solid white;
+    margin: 1px;
+}
+
+h3 {
+    color: black;
+    text-align: center;
+    background-color: white;
+    border: 2px solid white;
+    margin: 1px;
+}
+
+html {
+    background-color: black;
+    font-size: 100%;
+}
+
+em {
+    color: white;
+}
+a {
+    font-size: 19px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 5px 20px;
+}
+a:hover {
+ color: black;
+background: white;
+}
+
+#menu { 
+    
+    background-color: black;
+    padding: 10px;
+}
+
+#menu ul{
+    width: 410px;
+    margin: 10px auto;
+}
+
+#menu ul li{
+    display: inline;
+    color: white;
+       
+}
+
+#conteudo {
+    color: white;
+    border: 2px solid purple;
+    margin: 50px;
+    padding: 30px;
+    text-align: center;
+}
